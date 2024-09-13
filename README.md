@@ -1,5 +1,8 @@
 # Ambiente de Desenvolvimento 
 
+Deploy Nginx com HTTPS - Site Seguro Grátis! Nginx com Docker
+https://www.youtube.com/watch?v=ltwt2WcH_S8
+
 ## Realizar o build da imagem docker
 ```sh
 docker compose build
